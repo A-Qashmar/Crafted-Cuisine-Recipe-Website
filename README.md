@@ -14,7 +14,7 @@ A recipe discovery website that helps users find meals based on available ingred
 - **Tools:** Git, GitHub, VS Code
 
 ## Project Details
-- **Duration:** Fall 2024
+- **Duration:** Fall 2024 - Web Programming Course
 - **Team Size:** 3 members
 - **My Role:** Frontend Development
 
